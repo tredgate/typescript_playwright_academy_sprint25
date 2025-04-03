@@ -1,0 +1,30 @@
+{
+  "name": "typescript_playwright_academy_sprint25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/typescript_playwright_academy_sprint25.git"
+  },
+  "keywords": [],
+  "author": "Petr Fifka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/typescript_playwright_academy_sprint25/issues"
+  },
+  "homepage": "https://github.com/tredgate/typescript_playwright_academy_sprint25#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "eslint-config-prettier": "^10.1.1",
+    "typescript": "^5.8.2",
+    "typescript-eslint": "^8.28.0"
+  },
+  "dependencies": {
+    "tsx": "^4.19.3"
+  }
+}
